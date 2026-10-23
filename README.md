@@ -1,4 +1,4 @@
-# TingiProof — Supplier Delivery Verification
+# SupplyProof — Supplier Delivery Verification
 
 *A B2B tool for growing restaurant groups and retail businesses.*
 
@@ -10,7 +10,7 @@ These issues can involve missing items, damaged goods, incorrect products, or bi
 
 ## Solution
 
-TingiProof is a proposed delivery-verification and discrepancy-management tool that helps receiving teams record problems, organize supporting evidence, and track supplier resolutions in one place.
+SupplyProof is a proposed delivery-verification and discrepancy-management tool that helps receiving teams record problems, organize supporting evidence, and track supplier resolutions in one place.
 
 ## Target Market
 
@@ -41,4 +41,4 @@ A B2B subscription for businesses that receive regular supplier deliveries. Pric
 
 ## Current Status
 
-TingiProof is a proposed hackathon concept, not a validated product. The team must investigate customer needs, existing alternatives, and the feasibility of a dedicated discrepancy-management workflow before committing to the final scope.
+SupplyProof is a proposed hackathon concept, not a validated product. The team must investigate customer needs, existing alternatives, and the feasibility of a dedicated discrepancy-management workflow before committing to the final scope.
