@@ -8,8 +8,9 @@ Local prototype for documenting B2B delivery discrepancies: record short counts,
 - [pnpm](https://pnpm.io/installation)
 
 ## Run locally
-
+Download the source code, and then:
 ```bash
+$ cd C:/Users/[username]/Documents/GitHub/legarda-station
 pnpm install
 pnpm dev
 ```
